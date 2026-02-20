@@ -25,5 +25,4 @@ The dataset contains:
 | Level | Independent variable (feature) |
 | Salary | Dependent variable (target) |
 
-Dataset file:
 
