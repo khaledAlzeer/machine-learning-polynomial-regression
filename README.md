@@ -13,7 +13,7 @@ We compare:
 
 The polynomial model captures non-linear relationships between level and salary.
 
----
+----
 
 ## 📂 Dataset Description
 
